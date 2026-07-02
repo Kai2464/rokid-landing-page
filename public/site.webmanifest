@@ -1,0 +1,16 @@
+{
+  "name": "Rokid Glasses Landing Page",
+  "short_name": "Rokid",
+  "description": "Landing page giới thiệu Rokid Glasses với giao diện hiện đại, Dark Mode, animation, form đăng ký, mini e-commerce và chatbot tự động.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
