@@ -85,12 +85,3 @@ npm run build
 
 ```bash
 npm run preview
-```
-
-## Ghi chú
-
-File `.env.local` không được đưa lên GitHub. Biến môi trường cần cấu hình trên Vercel:
-
-```env
-VITE_WEB3FORMS_ACCESS_KEY=your_web3forms_access_key
-```
