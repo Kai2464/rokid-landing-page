@@ -160,7 +160,7 @@ export const newsletterContent = {
   placeholderEmail: "Email của bạn",
   buttonText: "Đăng ký nhận tin",
   privacyNote:
-    "Thông tin chỉ dùng cho mục đích demo bài tập. Khi dùng Web3Forms thật, cần kiểm tra kỹ email nhận form.",
+    "Chúng tôi cam kết bảo vệ thông tin cá nhân của bạn. Dữ liệu sẽ chỉ được sử dụng cho mục đích gửi thông tin về Rokid Glasses và không chia sẻ với bên thứ ba.",
 };
 
 export const miniProducts = [
